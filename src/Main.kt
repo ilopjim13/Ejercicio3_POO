@@ -4,7 +4,7 @@ fun main() {
     try {
         val rect1 = Rectangulo(3.7,5.4)
         println("Rectangulo 1:")
-        println(rect1.toString())
+        println(rect1)
 
         val rect2 = Rectangulo(4.2,3.8)
         println("\nRectangulo 2:")
